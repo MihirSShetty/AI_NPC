@@ -16,7 +16,7 @@ $6 / 1M output tokens
 A token is approximately 1 word. For example:
 
 Sending a 50-word prompt and receiving a 100-word response = 150 tokens.
-At the rates above, this would cost just $0.0009.
+At the rates above, one interaction will cost just $0.0009.
 Testing should cost less than a dollar in most cases
 
 to start
